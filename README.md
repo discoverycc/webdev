@@ -1,1 +1,1 @@
-These files are to be converted into bootstrap
+These are the raw website files
